@@ -41,8 +41,7 @@ h2 {
 
 .headeryazi {     
     color: white;    
-    background-color: #000;     
-    font-family: 'Lato', sans-serif;     
+    background-color: #000;        
     font-size: 3rem;     
     letter-spacing: 0.5rem;     
     font-weight: 400;     
@@ -50,9 +49,9 @@ h2 {
     border-top-left-radius: 2rem;     
     border-bottom-right-radius: 2rem;     
     /* outline: rgb(255,0,0) dashed 1px; */
-    outline-offset: 0.6rem;   
     /* line-height: 5rem;      */
     text-transform: uppercase; 
+    outline-offset: 0.6rem;   
     outline: 0.4rem inset purple;
 
 }   
@@ -107,6 +106,7 @@ b {
     text-align: center;
     background-image: url(./img/bg3.jpg);
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .reinvent {
@@ -116,6 +116,37 @@ b {
     border-top-left-radius: .7rem;
     border-bottom-right-radius: .7rem;
     line-height: 5rem;
-    
+    font-size: 3rem;
+    outline-offset: 0.2rem;   
+    outline: 0.4rem inset purple;
 }
 
+.ds-content {
+    display: block;
+    background-color: rgb(241, 241, 241);
+    color: #666;
+    padding: 3rem 5rem;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 2rem;
+    height: 20%;
+    opacity: 1;
+}
+
+.ds-background {
+    background-image: url(./img/bg4.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.team {
+    background-color: black;
+    color: white;
+    padding: 0.7rem;
+    border-top-left-radius: .7rem;
+    border-bottom-right-radius: .7rem;
+    line-height: 5rem;
+    font-size: 3rem;
+    outline-offset: 0.2rem;   
+    outline: 0.4rem inset purple;
+}
