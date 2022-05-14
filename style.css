@@ -49,7 +49,7 @@ h2 {
     padding: 2rem;     
     border-top-left-radius: 2rem;     
     border-bottom-right-radius: 2rem;     
-    outline: rgb(255,0,0) dashed 1px;
+    /* outline: rgb(255,0,0) dashed 1px; */
     outline-offset: 0.6rem;   
     /* line-height: 5rem;      */
     text-transform: uppercase; 
@@ -101,6 +101,10 @@ b {
     color: #ddd;
     height: 20%;
     opacity: 1;
+}
+
+.reinvent--div {
+    text-align: center;
 }
 
 .reinvent {
