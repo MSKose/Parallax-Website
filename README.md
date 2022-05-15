@@ -1,6 +1,6 @@
 # Project: Parallax Website
 
-[My final result]()
+[My final result](https://mskose.github.io/Parallax-Website/)
 
 ## Description
 Project aims to create parallax website.
