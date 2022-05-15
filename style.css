@@ -119,6 +119,8 @@ b {
     font-size: 3rem;
     outline-offset: 0.2rem;   
     outline: 0.4rem inset purple;
+    letter-spacing: 0.5rem;     
+
 }
 
 .ds-content {
@@ -149,6 +151,8 @@ b {
     font-size: 3rem;
     outline-offset: 0.2rem;   
     outline: 0.4rem inset purple;
+    letter-spacing: 0.5rem;     
+
 }
 
 .final-content {
@@ -167,4 +171,18 @@ b {
     background-attachment: fixed;
     background-repeat: no-repeat;
     min-height: 80%;
+}
+
+.future {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    border-top-left-radius: .7rem;
+    border-bottom-right-radius: .7rem;
+    line-height: 5rem;
+    font-size: 3rem;
+    outline-offset: 1rem;   
+    outline: 0.4rem inset purple;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
 }
