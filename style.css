@@ -150,3 +150,21 @@ b {
     outline-offset: 0.2rem;   
     outline: 0.4rem inset purple;
 }
+
+.final-content {
+    display: block;
+    text-align: center;
+    padding: 3rem 5rem;
+    background-color: #282e34;
+    color: #ddd;
+    height: 20%;
+    opacity: 1;
+}
+
+.final-image {
+    background-image: url(./img/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 80%;
+}
